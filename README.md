@@ -22,7 +22,7 @@ Este é um projeto de desenvolvimento de uma aplicação web para compartilhamen
 
 - BASE URL: https://m3-front-end-recipes.onrender.com
 
-## Autor
+## Autores
 
 - Daniele Chagas (https://github.com/danielekenziecurso)
 - Emanuelle Takenawa (https://github.com/emanuelletakenawa)
